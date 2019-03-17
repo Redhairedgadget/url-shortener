@@ -1,0 +1,20 @@
+{
+  "name": "fcc-url-shortener",
+  "version": "1.0.0",
+  "description": "FCC #3 API challenge.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "cors": "^2.8.5",
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.4.19",
+    "mongodb": "^3.1.11"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT"
+}
